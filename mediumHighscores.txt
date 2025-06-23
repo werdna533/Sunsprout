@@ -1,0 +1,10 @@
+  medium              aaaAaAAaaAAA     2470      7     20
+  medium                    andrew       50      0      1
+  medium                       bob      150      1      0
+  medium                         e        0      0      0
+  medium                        ee      390      1      4
+  medium                      john     1170      4      8
+  medium                     Katie      120      0      5
+  medium            LeanitaMcClain       20      0      1
+  medium            NormanRockwell      380      2      6
+  medium                      Suki     2540      9     14
