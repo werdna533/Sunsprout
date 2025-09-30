@@ -1,3 +1,4 @@
+# Sunsprout
 Hints on how to play:
 - If you click the pause button, you can end the game sooner than losing three lives or having no flowers left.
 
