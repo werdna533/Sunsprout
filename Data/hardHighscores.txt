@@ -1,0 +1,6 @@
+    hard              aaaAaAAaaAAA      540      3      6
+    hard                    andrew      630      3      8
+    hard                 debidavis     1990      8     15
+    hard                         e        0      0      1
+    hard            LeanitaMcClain       30      0      3
+    hard                 TheWinner      960      3      5
